@@ -6,3 +6,8 @@ This is a java applet made using Ready To Program.
 The rules are the same as the the original accordion solitaire game.
 
 Because of Java security issues, I don't know how to run this game anymore.
+
+Copyright 2016, Howard Zeng
+All rights reserved
+
+(The background image does not belong to me)
